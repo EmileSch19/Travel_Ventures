@@ -482,3 +482,9 @@ footer {
     background-image: url('../assets/mongolfiere-960.webp');
   }
 }
+
+footer .credits {
+  margin-top: 0;
+  font-size: 0.8rem;
+  opacity: 0.8;
+}

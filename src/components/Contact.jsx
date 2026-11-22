@@ -55,6 +55,7 @@ const Contact = () => {
 
       <footer>
         <p>© 2025 Travel Ventures — projet d’Emile Dufoulon</p>
+        <p className="credits">Photos : banques d’images libres de droits.</p>
       </footer>
     </>
   );
